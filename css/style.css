@@ -43,6 +43,7 @@ transform: scaleX(1);}
 .f-12{font-size: 12px;}
 .copy{margin:20px 0}
 .f-18{font-size: 18px;}
+.f-16{font-size: 16px;}
 .f-13{font-size: 13px;}
 #bio-con{height: 100vh; padding: 0 100px;position: relative;background:url('../images/mybg_pro.png');background-size: 80%;background-position:350px -100px;background-repeat: no-repeat;}
 .profile-img-con{position: absolute;right: 0;}
@@ -55,3 +56,9 @@ left: 0;}
 .about-im span{display: block;}
 .about-info h2{font-weight: 300;}
 .about-info{position: absolute;top:40%}
+.download-now{border: 1px solid #333;padding: 8px 20px;text-decoration: none;
+margin: 20px 0 0;color: #000;text-transform: uppercase;
+border-radius: 3px; display: inline-flex;justify-content: center;    transition: transform .3s ease-out;align-items: center;}
+.download-now span{margin: 0 6px;}
+.download-now:hover{box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;transform: translate(0,-2px);}
+.cu-pointer{cursor: pointer;}
