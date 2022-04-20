@@ -62,3 +62,4 @@ border-radius: 3px; display: inline-flex;justify-content: center;    transition:
 .download-now span{margin: 0 6px;}
 .download-now:hover{box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;transform: translate(0,-2px);}
 .cu-pointer{cursor: pointer;}
+#position span{color: #2c98f0;font-weight: 300;}
