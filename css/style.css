@@ -53,9 +53,9 @@ position: absolute;
 background: rgb(255 255 255 / 68%);
 left: 0;}
 .about-im{font-size: 50px;font-weight: 900;margin: 0;}
-.about-im span{display: block;}
-.about-info h2{font-weight: 300;}
-.about-info{position: absolute;top:40%}
+.about-im span{display: block;margin:10px 0}
+.about-info h2{font-weight: 300;margin-top: 10px;}
+.about-info{position: absolute;top:35%}
 .download-now{border: 1px solid #333;padding: 8px 20px;text-decoration: none;
 margin: 20px 0 0;color: #000;text-transform: uppercase;
 border-radius: 3px; display: inline-flex;justify-content: center;    transition: transform .3s ease-out;align-items: center;}
